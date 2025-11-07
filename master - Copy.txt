@@ -1,0 +1,38 @@
+single LED
+1-a, 6-a,10-a - https://wokwi.com/projects/446988106412850177
+
+onboard LED
+1-b,5-b,10-b - https://wokwi.com/projects/446988138836925441
+
+toggle two led
+2-a, 9-a - https://wokwi.com/projects/446988199651201025
+
+wokwi led
+2-b, 9-b - https://wokwi.com/projects/446988225446183937
+
+pico switch
+3-b - https://wokwi.com/projects/446988253509232641
+
+potentiometer
+4-b part 2 - https://wokwi.com/projects/446988294855646209
+
+patient monitoring
+8 - https://wokwi.com/projects/446988319639793665
+
+agriculture monitoring
+7 - https://wokwi.com/projects/446988346376389633
+
+lm35 temperature sensor
+3-a, 4-a - https://wokwi.com/projects/446988370686578689
+
+distance
+6b - https://wokwi.com/projects/446988403695756289
+
+
+
+--------------------------------------------------------
+https://wokwi.com/projects/444680682183196673
+https://wokwi.com/projects/444680645840579585
+
+
+
