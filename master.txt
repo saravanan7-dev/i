@@ -41,3 +41,6 @@ https://wokwi.com/projects/444680645840579585
 3112957
 api 
 I7HAU8K73NDXVGQK
+
+const int myChannelNumber =3153077 ;
+const char* myApiKey = "N8B3UI299UA4YIHI";
